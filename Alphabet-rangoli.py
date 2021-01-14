@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-size=int(input())
+size=int(input("Enter the number between 1 to 26"))
 # your code goes here
 import textwrap
 s='abcdefghijklmnopqrstuvwxyz'
